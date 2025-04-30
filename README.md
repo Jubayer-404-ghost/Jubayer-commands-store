@@ -6,7 +6,7 @@
     <title>Colored Text</title>
     <style>
         .colored-text {
-            color: #000000; 
+            color: #0000FF; 
         }
     </style>
 </head>
