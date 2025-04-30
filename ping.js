@@ -12,6 +12,6 @@ module.exports = {
     const timeStart = Date.now();
     await message.reply("Checking ping...");
     const timeEnd = Date.now();
-    message.reply(`↽↽↽↽↽↽↽\n\n𝗣𝗜𝗡𝗚!  ⁣⁣𓆩${timeEnd - timeStart}ms𓆪\n\n↽↽↽↽↽↽↽↽↽`);
+    message.reply(`❍─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──❍\n𝗣𝗜𝗡𝗚!  ⁣⁣𓆩${timeEnd - timeStart}ms𓆪\n❍─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──❍`);
   }
 };
